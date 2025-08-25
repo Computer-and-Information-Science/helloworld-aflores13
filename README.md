@@ -5,9 +5,9 @@ Additionally try these out and see what errors you get. Document your errors her
 
 Starting with the Hello World program, try out each of the following errors. After you make each change, compile the program, read the error message (if there is one), and then fix the error.
 
-Remove one of the opening curly braces.
+Remove one of the opening curly braces. 
 
-Remove one of the closing curly braces.
+Remove one of the closing curly braces. 
 
 Instead of main, write mian.
 
